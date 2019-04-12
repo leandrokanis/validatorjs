@@ -49,7 +49,7 @@ Messages.prototype = {
     var name = attribute;
     if (this.attributeNames.hasOwnProperty(attribute)) {
       return this.attributeNames[attribute];
-    } else if (this.messages.attributes.hasOwnProperty(attribute)) {
+    } else if (false) {
       name = this.messages.attributes[attribute];
     }
 
