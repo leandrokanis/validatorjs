@@ -99,4 +99,5 @@ module.exports = {
   uploaded: 'Falha no Upload do arquivo :attribute.',
   url: 'O formato da URL informada para o campo :attribute é inválido.',
   url: 'O formato da URL informada para o campo :attribute é inválido.',
+  attributes: {}
 };
